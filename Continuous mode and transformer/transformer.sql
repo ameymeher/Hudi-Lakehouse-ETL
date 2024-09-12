@@ -1,0 +1,1 @@
+SELECT *, extract(year from order_date) as year, extract(month from order_date) as month  FROM <SRC> a
