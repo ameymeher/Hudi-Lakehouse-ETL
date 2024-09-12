@@ -1,3 +1,5 @@
 /Ingestion\ from\ Parquet\ Source/source/*
 /Ingestion\ from\ Parquet\ Source/target/*
+/Ingestion\ from\ CSV\ Source/source/*
+/Ingestion\ from\ CSV\ Source/target/*
 /jar/*
