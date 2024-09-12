@@ -1,0 +1,2 @@
+brew install openjdk@11
+brew install hadoop
