@@ -21,7 +21,7 @@ The processes include data ingestion from multiple processes,CDC (Change Data Ca
   <img src="images/csv_to_hudi.png" alt="csv_to_hudi" width="60%" height="60%" style="margin-right: 10px;"/>
 </div>
 
-### 3. [Incremental Pull from Postgres](./Incremental%20pull%20from%20Postgres/readme.md)
+### 3. [Incremental Pull from Postgres](./Incremental%20pull%20from%20Postgres/)
 - **Description:** Fetching latest data inserted/updated in a Postgres table into an Apache Hudi table.
 
 <div align="center">
