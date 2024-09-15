@@ -17,6 +17,10 @@ The processes include data ingestion from multiple processes,CDC (Change Data Ca
 ### 2. Ingestion from CSV Source
 - **Description:** Ingesting CSV files from a source to an Apache Hudi table.
 
+<div align="center">
+  <img src="images/csv_to_hudi.png" alt="csv_to_hudi" width="60%" height="60%" style="margin-right: 10px;"/>
+</div>
+
 ### 3. Incremental Pull from Postgres
 - **Description:** Fetching latest data inserted/updated in a Postgres table into an Apache Hudi table.
 
