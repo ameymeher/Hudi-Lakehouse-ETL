@@ -97,3 +97,10 @@ The processes include data ingestion from multiple processes,CDC (Change Data Ca
 2. Install Hadoop: `brew install hadoop`
 3. Set the appropriate PATH in environment variables
 4. Install all the packages: `pip install -r requirements.txt`
+5. Download the jars for Apache Hudi and keep them in a folder called 'jar' in this directory
+
+    Hudi Version 0.15.0
+    https://mvnrepository.com/artifact/org.apache.hudi/hudi-utilities-slim-bundle_2.12/0.15.0
+
+    Hudi Version 0.14.0
+    https://repo.maven.apache.org/maven2/org/apache/hudi/hudi-utilities-slim-bundle_2.12/0.14.0/

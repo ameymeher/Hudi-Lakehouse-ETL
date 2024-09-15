@@ -25,5 +25,3 @@ This project contains code for ingesting Parquet files from a source to an Apach
 3. **Time Travel and Data Auditing**: Maintaining historical versions of data for auditing and debugging purposes.
 4. **Efficient Querying with Partitioning**: Optimizing data queries through partitioning.
 5. **Data Lakehouse Architecture**: Implementing a lakehouse architecture for unified analytics.
-
-
