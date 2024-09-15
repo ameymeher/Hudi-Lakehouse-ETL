@@ -1,0 +1,17 @@
+version: 1
+formatters:
+  detailedFormatter:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    datefmt: '%Y-%m-%d %H:%M:%S'
+
+handlers:
+  fileHandler:
+    class: logging.FileHandler
+    level: INFO
+    formatter: detailedFormatter
+    filename: 'generic_job.log'
+    mode: 'w'
+
+root:
+  level: INFO
+  handlers: [fileHandler]
