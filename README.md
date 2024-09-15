@@ -7,7 +7,7 @@ The processes include data ingestion from multiple processes,CDC (Change Data Ca
 
 ## ETL Processes
 
-### 1. [Ingestion from Parquet Source](./Ingestion%20from%20Parquet%20Source/readme.md)
+### 1. [Ingestion from Parquet Source](./Ingestion%20from%20Parquet%20Source/)
 - **Description:** Ingesting parquet files from a source to an Apache Hudi table.
 
 <div align="center">
