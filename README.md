@@ -90,3 +90,10 @@ The processes include data ingestion from multiple processes,CDC (Change Data Ca
 <div align="center">
   <img src="images/generic_table_load.png" alt="generic_table_load" width="60%" height="60%" style="margin-right: 10px;"/>
 </div>
+
+## Prerequisites:
+
+1. Install Java: `brew install openjdk@11`
+2. Install Hadoop: `brew install hadoop`
+3. Set the appropriate PATH in environment variables
+4. Install all the packages: `pip install -r requirements.txt`
