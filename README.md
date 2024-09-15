@@ -104,3 +104,7 @@ The processes include data ingestion from multiple processes,CDC (Change Data Ca
 
     Hudi Version 0.14.0
     https://repo.maven.apache.org/maven2/org/apache/hudi/hudi-utilities-slim-bundle_2.12/0.14.0/
+
+## Acknowledgement:
+
+Huge thanks to Soumil Shah (Github: soumilshah1995) for tutorials on Apache Hudi!
