@@ -1,7 +1,9 @@
 brew install openjdk@11
 brew install hadoop
+brew install parquet-cli
 
 export SPARK_HOME=/opt/anaconda3/envs/realtime-lakehouse-analytics/lib/python3.12/site-packages/pyspark
 export JAVA_HOME=/opt/homebrew/Cellar/openjdk@11/11.0.24
 export PYSPARK_PYTHON=python3
+export PARQUET_CLI_HOME=/opt/homebrew/opt/parquet-cli
 export PATH=$SPARK_HOME/bin:$JAVA_HOME/bin:$PATH
